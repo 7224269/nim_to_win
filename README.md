@@ -92,7 +92,7 @@ Note:
 It is not allowed to use something that we didn't cover during our study otherwise, 20% of your grade will be deducted.
 
 - The main objective of this game is to apply the knowledge gained from the course lectures.
-- 
+  
 //************************************************************************************************
 
 Evaluation process:
