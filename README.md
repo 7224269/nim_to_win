@@ -1,5 +1,3 @@
-© Dr. Fadi Alzhouri 2023. All rights reserved.
-
 COEN 243 Project (Nim to Win)
 Deadline: December 3, 2023
 Type: Group (Not Compulsory)
